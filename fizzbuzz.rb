@@ -3,12 +3,12 @@
 
 def fizzbuzz(input_number)
   if input_number % 15 == 0
-    return "FizzBuzz"
+    "FizzBuzz"
   elsif input_number % 5 == 0
-    return "Buzz"
+    "Buzz"
   elsif input_number % 3 == 0
-    return "Fizz"
+    "Fizz"
   else
-    return nil
+    nil
   end
 end
