@@ -13,4 +13,4 @@ def fizzbuzz(input_number)
   end
 end
 
-puts fizzbuzz(5)
+puts fizzbuzz(30)
