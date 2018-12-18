@@ -12,3 +12,5 @@ def fizzbuzz(input_number)
     nil
   end
 end
+
+fizzbuzz(3)
